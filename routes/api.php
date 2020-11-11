@@ -22,3 +22,5 @@ Route::apiresource('brands','BrandController');
 Route::apiresource('items','ItemController');
 Route::apiresource('categories','CategoryController');
 Route::apiresource('subcategories','SubcategoryController');
+
+Route::apiresource('users','UserController');
